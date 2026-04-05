@@ -4,11 +4,11 @@ import ContolehandelFild from './component/ContolehandelFild/ContolehandelFild';
 import FromAction from './component/FromAction/FromAction';
 import HooksFrom from './component/HooksFrom/HooksFrom';
 import UseInputHooks from './component/MalkeHookes/UseInputHooks';
+import ProductManageMent from './component/ProductManageMent/ProductManageMent';
 
 import SimpleFrom from './component/simpleFrome/SimpleFrom';
 
-
-
+  
 
 function App() {
 
@@ -19,8 +19,10 @@ function App() {
       {/* <SimpleFrom></SimpleFrom> */}
       {/* <FromAction></FromAction> */}
       {/* <ContolehandelFild></ContolehandelFild> */}
-      <HooksFrom></HooksFrom>
+      {/* <HooksFrom></HooksFrom> */}
       {/* <UseInputHooks></UseInputHooks> */}
+
+      <ProductManageMent></ProductManageMent>
       
       
       
